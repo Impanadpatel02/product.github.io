@@ -1,0 +1,52 @@
+body{     background-color: #85b7e9; 
+           margin-top:50px; 
+           border: #c95fd2;
+} 
+.card { 
+    margin-bottom: 30px; 
+}
+ .card {   
+         position: relative; 
+         display: flex;    
+          flex-direction: column;   
+         min-width: 0;  
+         word-wrap: break-word;  
+         background-color: #c95fd2;   
+         background-clip: border-box; 
+         border: 0 solid transparent;  
+          border-radius: 0; 
+} 
+.white-box text-bottom{
+            align-items: center;
+            background-color: #c95fd2;
+}
+
+
+.card .card-subtitle {  
+                    font-weight: 300; 
+                    margin-bottom: 500px;
+                    margin-top: 500px; 
+                    color: #12345a; 
+} 
+.table-product.table-striped tbody tr:nth-of-type(odd) {  
+               background-color: #68c7ed;
+} 
+.table-product td{    
+          border-top: 0px solid #234464; 
+         color: #344a69! 
+}    
+ .container{  
+             padding:2px 16px;
+            background-color:#043242; 
+
+} 
+.promo {  
+         background:#81a8e8;    
+        padding:3px; 
+ 
+} 
+.expire {    
+          color:red; 
+} 
+ 
+ 
